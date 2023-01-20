@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    font-size: 25px;
+    font-weight: 200;
+}
+body{
+    margin: 5% 20%;
+    border: 1px solid black;
+    padding: 5%;
+}
+#title{
+    font-weight: 500;
+    font-size: larger;
+    text-transform: uppercase;
+    text-decoration:underline;
+    text-align: center;
+}
+#name{
+    display: block;
+    width: 60%;
+}
+#email{
+    display: block;
+    width: 60%;
+}
+#number{
+    display: block;
+    width: 60%;
+}
+#dropdown{
+    display: block;
+    width: 60%;
+    margin-bottom: 2rem;
+}
+textarea{
+    font-size: 15px;
+    display: block;
+    width: 60%;
+    height: 2rem;
+}
+#submit{
+    display: block;
+    width: 60%;
+    margin: 2rem;
+}
